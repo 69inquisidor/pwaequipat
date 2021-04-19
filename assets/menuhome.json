@@ -1,0 +1,29 @@
+[{
+        "id": 1,
+        "imagen": "../assets/images/CapSolici.png",
+        "name": "CapturaSolicitud",
+        "description": "Captura nuevas solicitudes .",
+        "url": "capturasolicitud"
+    },
+    {
+        "id": 2,
+        "imagen": "../assets/images/Cobranza.png",
+        "name": "Cobranza",
+        "description": "Contiene modulos como Agenda, Saldo y Gestion.",
+        "url": "cobranza"
+    },
+    {
+        "id": 3,
+        "imagen": "../assets/images/EscaneoConsBC.png",
+        "name": "Escaneo y consulta BC",
+        "description": "No Funcional.",
+        "url": "escaneocosultabs"
+    },
+    {
+        "id": 4,
+        "imagen": "../assets/images/solOffline.png",
+        "name": "Solicitudes Offline",
+        "description": "No funcional.",
+        "url": "offline"
+    }
+]

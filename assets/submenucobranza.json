@@ -1,0 +1,22 @@
+[{
+        "id": 1,
+        "imagen": "../assets/images/icon10.png",
+        "name": "Agenda",
+        "description": "Agenda.",
+        "url": "agenda"
+    },
+    {
+        "id": 2,
+        "imagen": "../assets/images/icon9.png",
+        "name": "Ver Saldo",
+        "description": "Contiene modulos como Agenda, Saldo y Gestion.",
+        "url": "saldo"
+    },
+    {
+        "id": 3,
+        "imagen": "../assets/images/icon11.png",
+        "name": "Gestion",
+        "description": "No Funcional.",
+        "url": "gestion"
+    }
+]
